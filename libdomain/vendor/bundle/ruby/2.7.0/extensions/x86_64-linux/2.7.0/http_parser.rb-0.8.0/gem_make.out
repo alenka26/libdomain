@@ -1,0 +1,22 @@
+current directory: /home/SMB.BASEALT.RU/alenka/project/test-site/libdomain/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/bin/ruby -I /usr/lib/ruby -r ./siteconf20230424-1752703-12togzr.rb extconf.rb
+creating Makefile
+
+current directory: /home/SMB.BASEALT.RU/alenka/project/test-site/libdomain/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+make[1]: вход в каталог «/home/SMB.BASEALT.RU/alenka/project/test-site/libdomain/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser»
+make[1]: выход из каталога «/home/SMB.BASEALT.RU/alenka/project/test-site/libdomain/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser»
+
+current directory: /home/SMB.BASEALT.RU/alenka/project/test-site/libdomain/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR="
+make[1]: вход в каталог «/home/SMB.BASEALT.RU/alenka/project/test-site/libdomain/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser»
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+make[1]: выход из каталога «/home/SMB.BASEALT.RU/alenka/project/test-site/libdomain/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser»
+
+current directory: /home/SMB.BASEALT.RU/alenka/project/test-site/libdomain/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" install
+make[1]: вход в каталог «/home/SMB.BASEALT.RU/alenka/project/test-site/libdomain/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser»
+/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20230424-1752703-1il0sbk
+make[1]: выход из каталога «/home/SMB.BASEALT.RU/alenka/project/test-site/libdomain/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser»
